@@ -9,6 +9,7 @@ Next you will move the `project folder` to the xampp installation folder, next e
 # If you install xampp with the default installation folder, the route is
 C:\xampp\htdocs
 ```
+Now, you can execute the php file, for that, you will need open a New Tab in your Browser and put in the url `localhost/[folder_name]/login.php`.
 
 # Login User
 For can go to the Main Page, you will need insert the email and password specified.

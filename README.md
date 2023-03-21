@@ -12,5 +12,5 @@ C:\xampp\htdocs
 
 # Login User
 For can go to the Main Page, you will need insert the email and password specified.
-* email: `kevin@gmail.com`
-* password: `1234`
+* email `kevin@gmail.com`
+* password `1234`

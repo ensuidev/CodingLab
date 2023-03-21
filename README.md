@@ -3,10 +3,9 @@ This website was mading with php language, and using two types of css libraries,
 
 ## Host
 For can execute the PHP files, install [XAMPP (8.2.0)](https://www.apachefriends.org/es/download.html) and run `Apache`.
-Next you will move the `project folder` to the `xampp instalation folder`, enter to `htdocs` and paste the `project folder` here.
-
-If you install xampp in the default folder, the route is
+Next you will move the `project folder` to the xampp installation folder, enter to `htdocs` and paste the project folder here.
 
 ```
+# If you install xampp with the default installation folder, the route is
 C:\xampp\htdocs
 ```

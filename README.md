@@ -11,7 +11,7 @@ C:\xampp\htdocs
 ```
 Now, you can execute the php file, for that, you will need open a New Tab in your Browser and put in the url 
 
-```
+```url
 localhost/[folder_name]/login.php
 ```
 

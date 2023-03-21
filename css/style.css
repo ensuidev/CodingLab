@@ -1,0 +1,112 @@
+body 
+{
+    font-family: 'Montserrat', sans-serif;
+    --navbar_color: #343379;
+    --navbar_color_active: #212053;
+    --navbar_color_hover: #26255e;
+    --white: #ffffff;
+
+    --up_color: #4fd6a9;
+    --down-color: #d64f4f;
+
+    --order_icon: #65b4ff;
+    --order_bg: #e0f0ff;
+    --sales_icon: #55e279;
+    --sales_bg: #ddffe2;
+    --profit_icon: #e0e255;
+    --profit_bg: #ffffc8;
+    --return_icon: #e25555;
+    --return_bg: #ffe8e8;
+}
+
+.bg-fondo 
+{
+    background-color: var(--navbar_color);
+}
+
+#ancla, a.ancla
+{
+    outline: none;
+    text-decoration: none;
+    color: white;
+    transition: all 0.2s !important;
+}
+
+a.ancla:hover
+{
+    color: var(--white) !important;
+}
+
+#ancla:hover
+{
+    color: var(--white) !important;
+    background-color: var(--navbar_color_hover);
+}
+
+a.navbarlist
+{
+    border: none;
+    color:var(--white);
+    background-color: var(--navbar_color);
+}
+
+a.active
+{
+    border-radius: 0px !important;
+    border: none;
+    background-color: var(--navbar_color_active) !important;
+}
+
+.icon-green 
+{
+    color: var(--up_color);
+}
+
+.icon-red 
+{
+    color: var(--down-color);
+}
+
+.order-btn
+{
+    background-color: var(--order_bg);
+    color: var(--order_icon);
+    border-radius: 12px;
+}
+
+.sales-btn
+{
+    background-color: var(--sales_bg);
+    color: var(--sales_icon);
+    border-radius: 12px;
+}
+
+.profit-btn
+{
+    background-color: var(--profit_bg);
+    color: var(--profit_icon);
+    border-radius: 12px;
+}
+
+.return-btn
+{
+    background-color: var(--return_bg);
+    color: var(--return_icon);
+    border-radius: 12px;
+}
+
+.btn-seeAll
+{
+    background-color: var(--navbar_color) !important;
+    color: var(--white) !important;
+}
+
+.btn-seeAll:hover
+{
+    background-color: var(--navbar_color_hover) !important;
+}
+
+img.ImageP
+{
+    border-radius: 10px;
+}
